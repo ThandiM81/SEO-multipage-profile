@@ -38,6 +38,11 @@ p {
   line-height: 1.5;
   margin-bottom: 40px;
 }
+p.contact-me {
+  text-align: center;
+  padding-top: 20px;
+  margin-bottom: 10px;
+}
 
 .navigation-links {
   display: flex;
